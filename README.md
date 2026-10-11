@@ -1,25 +1,66 @@
-# 💫 About Me:
-I am a full stack web developer, having high proficiency in Vue.js, React.js, and Node,js
+<a href="https://aedit.me">
+  <img src="https://aedit.me/opengraph-image" alt="Udit Sen, Senior Frontend Engineer. Daily puzzles at aedit.me" width="100%" />
+</a>
 
+## Hi, I'm Udit 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aedit) 
+Senior UI Engineer at **EclecticIQ**, working remotely from Indore, India. I build fast, accessible
+interfaces with **React, TypeScript and Vue**, and I care about the details most people never notice:
+bundle size, keyboard focus, and the 200 ms that makes something feel instant.
 
-# 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aedit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aedit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aedit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Outside work, I organise **Google Developer Groups Indore** (since 2018), and I build small games.
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+## 🎮 Beat my time
 
----
-[![](https://visitcount.itsvg.in/api?id=aedit&icon=0&color=0)](https://visitcount.itsvg.in)
+My portfolio, [aedit.me](https://aedit.me), has an arcade of daily puzzles. **Everyone gets the same
+puzzle**, a new one drops every day at 00:00 UTC, and **the time to beat is mine.**
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aedit) 
+| Game | Today's challenge |
+| --- | --- |
+| 🐛 [**Code Review**](https://aedit.me/arcade/code-review) | Three snippets, one bug each. Tap the line that breaks it. |
+| 💣 [**Minesweeper**](https://aedit.me/arcade/minesweeper) | A 12×12 board hiding 20 mines. Always solvable without guessing. |
+| 🧠 [**Mini Sudoku**](https://aedit.me/arcade/mini-sudoku) | A 6×6 sudoku with 2×3 boxes. Pure logic, never a guess. |
+| ⚡ [**Quick Math**](https://aedit.me/arcade/quick-math) | Rapid-fire arithmetic. 20 questions. No hesitation. |
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Times are verified on the server, so no, editing the request won't help. 😉
+
+## 🛠️ What I work on
+
+- **Design systems and platform modernisation:** moving legacy code to React + TypeScript, and growing shared component libraries.
+- **Data-heavy UIs:** schema-driven forms, D3.js dashboards, and virtualised tables.
+- **Real-time interfaces:** AI assistant UIs that stream over Server-Sent Events, with resilient state.
+- **Micro-frontends and tooling:** shared libraries, scaffolding CLIs, faster builds.
+
+## ✨ Featured: [aedit.me](https://aedit.me/projects/aedit-me)
+
+My third portfolio, built solo with Next.js, TypeScript and Tailwind.
+
+- 🌌 A starfield in **plain WebGL2: 7 KB**, down from 241 KB with three.js
+- 🖼️ Home page HTML cut from **170 KB to 48 KB**
+- 🔐 Global stats that **replay every run on the server** before it counts
+- ♿ Keyboard and screen reader support everywhere, including the games. No cookies.
+
+[Read the case study →](https://aedit.me/projects/aedit-me)
+
+## 🧰 Toolbox
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+## 📫 Say hi
+
+[![Website](https://img.shields.io/badge/aedit.me-ffca83?style=flat-square&logo=googlechrome&logoColor=0a0a0c)](https://aedit.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aedit)
+[![X](https://img.shields.io/badge/@aeditme-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/aeditme)
+[![Email](https://img.shields.io/badge/hey@aedit.me-1a1a1f?style=flat-square&logo=maildotru&logoColor=ffca83)](mailto:hey@aedit.me)
+
+If something here saved you an afternoon, [buy me a coffee ☕](https://buymeacoffee.com/aedit).
+
+<sub>Fun fact: the "Did you know?" stories in Code Review are real bugs I hit while building aedit.me.</sub>
